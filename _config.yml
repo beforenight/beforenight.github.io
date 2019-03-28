@@ -1,11 +1,11 @@
 # Site settings
-title: Hux Blog
-SEOTitle: 黄玄的博客 | Hux Blog
+title: BeforeNight Blog
+SEOTitle: BeforeNight的博客 | BeforeNight Blog
 header-img: img/home-bg.jpg
-email: huxpro@gmail.com
-description: "关于程序与设计、黑客与画家 | 黄玄，Web & Mobile Lover，Software Engineer，UX Designer | 这里是 @Hux黄玄 的个人博客，与你一起发现更大的世界。"
-keyword: "黄玄, Hux黄玄, Hux, 鬼栈, huxpro, @huxpro, 黄玄的博客, Hux Blog, 博客, 个人网站, 互联网, Web, JavaScript, 前端, 设计"
-url: "https://huangxuan.me"              # your host, for absolute URL
+email: beforenight@163.com
+description: "Beforenight, Android 开发工程师一枚,"
+keyword: "beforenight , beforenight的博客, beforenight Blog, 博客, Android, Flutter, Web, JavaScript, 前端, 设计"
+url: "https://beforenight.win"              # your host, for absolute URL
 baseurl: ""                             # for example, '/blog' if your blog hosted on 'host/blog'
 
 # Publish posts or collection documents with a future date.
@@ -13,11 +13,11 @@ future: true
 
 # SNS settings
 RSS: false
-weibo_username:     huxpro
-zhihu_username:     huxpro
-github_username:    huxpro
-twitter_username:   huxpro
-#facebook_username:  huxpro
+weibo_username:     sharewill
+zhihu_username:     zhang-xi-gua-81
+github_username:    beforenight
+# twitter_username:   beforenight
+#facebook_username:  beforenight
 #linkedin_username:  firstname-lastname-idxxxx
 
 
@@ -59,7 +59,7 @@ kramdown:
 
 
 # Disqus settings
-disqus_username: hux
+disqus_username: beforenight
 
 # Netease settings
 netease_comment: false
@@ -72,7 +72,7 @@ netease_comment: false
 
 # Google Analytics
 ga_track_id: 'UA-49627206-1'            # Format: UA-xxxxxx-xx
-ga_domain: huangxuan.me
+ga_domain: beforenight.win
 
 
 
@@ -103,17 +103,17 @@ page-mathjax: false
 # Friends
 friends: [
     {
-    #     title: "Su",
-    #     href: "http://su.gallery/"
-    # },{
-        title: "乱序",
-        href: "http://mida.re/"
+        title: "BeforeNight",
+        href: "http://beforenight.win/"
     },{
-        title: "前端外刊评论",
-        href: "http://qianduan.guru/"
+        title: "Gank.io",
+        href: "http://Gank.io/"
     },{
-        title: "天镶的博客",
-        href: "http://lingyu.wang/"
+        title: "稀土掘金",
+        href: "http://e.xitu.io/"
+    },{
+        title: "黄玄的博客",
+        href: "http://huangxuan.me/"
     },{
         title: "Luke 的自留地",
         href: "http://hmqk1995.github.io"
